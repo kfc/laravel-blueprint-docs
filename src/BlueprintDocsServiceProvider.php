@@ -3,7 +3,7 @@
 namespace M165437\BlueprintDocs;
 
 use Illuminate\Support\ServiceProvider;
-use Hmaus\DrafterPhp\Drafter;
+use Goez\DrafterPhp\Drafter;
 
 class BlueprintDocsServiceProvider extends ServiceProvider
 {

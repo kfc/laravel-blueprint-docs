@@ -2,14 +2,14 @@
 
 namespace M165437\BlueprintDocs;
 
-use Hmaus\DrafterPhp\Drafter;
+use Goez\DrafterPhp\Drafter;
 use Hmaus\Reynaldo\Parser\RefractParser;
 use M165437\BlueprintDocs\Elements\Api;
 
 class BlueprintDocs
 {
     /**
-     * @var \Hmaus\DrafterPhp\Drafter
+     * @var \Goez\DrafterPhp\Drafter
      */
     protected $drafter;
 
